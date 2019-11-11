@@ -1,0 +1,2 @@
+﻿SearchTag = Pivnice Brno
+NumberOfPages = 20

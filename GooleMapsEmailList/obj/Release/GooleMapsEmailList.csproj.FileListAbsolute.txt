@@ -1,0 +1,10 @@
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\bin\Release\GooleMapsEmailList.exe.config
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\bin\Release\GooleMapsEmailList.exe
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\bin\Release\GooleMapsEmailList.pdb
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\bin\Release\WebDriver.dll
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\bin\Release\WebDriver.xml
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\obj\Release\GooleMapsEmailList.csprojAssemblyReference.cache
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\obj\Release\GooleMapsEmailList.csproj.CoreCompileInputs.cache
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\obj\Release\GooleMapsEmailList.csproj.CopyComplete
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\obj\Release\GooleMapsEmailList.exe
+C:\Users\SinglePixelCircle\source\repos\GooleMapsEmailList\GooleMapsEmailList\obj\Release\GooleMapsEmailList.pdb
